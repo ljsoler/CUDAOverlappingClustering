@@ -2,10 +2,6 @@
 ### Static and Incremental Overlapping Clustering Algorithms for Large Collections Processing in GPU
 ### Paper accepted at [Informatica ](https://www.informatica.si/index.php/informatica)
 
-<img src="utils/workflow.png"> 
-
-<hr/>
-
 ## Requierements ##
 - CUDA Toolkit version >= 6
 
